@@ -10,5 +10,5 @@ const swiper = new Swiper('.hero-swiper', {
     a11y: {
       enabled: true,
       paginationBulletMessage: 'переход на слайд {{index}}'
-    }
+    },
 });
